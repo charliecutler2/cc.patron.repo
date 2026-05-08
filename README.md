@@ -4,13 +4,16 @@
 
 Assessing whether awarding behaviour is affected by whether a consultant was contracted in the leadup to the procurement proper. 
 
-Theoretically: consultants tend to favour (either explicitly/maliciously or implicitly) proposing a course of action that results in them being awarded a contract 
+Theoretically: consultants tend to favour (either explicitly/maliciously or implicitly) proposing a course of action that results in them being awarded a contract
 
-Data needed: should all be in the procurement dataset, but will need to clean it
+### Data needed: should all be in the procurement dataset, but will need to clean it
 
-- type of contract (then would create a new binary column for whether it was a consulting contract. 
-
-Dependent variables: binary, whether a contract awarded to the same company after a consulting contract was awarded. AND/OR value of contracts awarded after consulting. 
+- type of contract 
+    - (then would create a new binary column for whether it was a consulting contract).
+    - Then, assess somehow whether 
+- Company (will need to do the cleaning) - there could be a problem with different names for the consulting branch of a company versus the services/product branch of a company
+    - Maybe we check for overlap instead of exact match?
+- Dependent variables: binary, whether a contract awarded to the consulting company after a consulting contract was awarded. AND/OR _value_ of contracts awarded after consulting. 
 
 
 
