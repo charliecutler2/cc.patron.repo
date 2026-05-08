@@ -2,19 +2,19 @@
 
 ## Potential project: Do consultants rig the game for themselves?
 
+Assessing whether awarding behaviour is affected by whether a consultant was contracted in the leadup to the procurement proper. 
 
+Theoretically: consultants tend to favour (either explicitly/maliciously or implicitly) proposing a course of action that results in them being awarded a contract 
 
-Data needed: type of contract (then would create a new binary column for whether it was a consulting contract. Then 
+Data needed: should all be in the procurement dataset, but will need to clean it
 
-
+- type of contract (then would create a new binary column for whether it was a consulting contract. 
 
 Dependent variables: binary, whether a contract awarded to the same company after a consulting contract was awarded. AND/OR value of contracts awarded after consulting. 
 
-Tldr: assessing whether awarding behaviour is affected by whether a consultant was contracted in the leadup to the procurement proper
 
 
-
-Would need to ssomehow operationalize which contracts are precipitated by a consulting contract 
+Would need to somehow operationalize which contracts are precipitated by a consulting contract 
 
 
 
