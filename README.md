@@ -10,14 +10,15 @@ Theoretically: consultants tend to favour (either explicitly/maliciously or impl
 
 - type of contract 
     - (then would create a new binary column for whether it was a consulting contract).
-    - Then, assess somehow whether 
+    - Then, assess which contracts come as a potential result of consulting 
+        - Finally,** determine whether awarding behaviour is affected by the presence of a consulting contract **
 - Company (will need to do the cleaning) - there could be a problem with different names for the consulting branch of a company versus the services/product branch of a company
     - Maybe we check for overlap instead of exact match?
 - Dependent variables: binary, whether a contract awarded to the consulting company after a consulting contract was awarded. AND/OR _value_ of contracts awarded after consulting. 
 
 
 
-Would need to somehow operationalize which contracts are precipitated by a consulting contract 
+Would need to somehow operationalize which **contracts** are precipitated by a consulting contract 
 
 
 
