@@ -18,7 +18,7 @@ Theoretically: consultants tend to favour (either explicitly/maliciously or impl
 
 
 
-Would need to somehow operationalize which **contracts** are precipitated by a consulting contract 
+Would need to somehow operationalize which contracts are precipitated by a consulting contract 
 
 
 
